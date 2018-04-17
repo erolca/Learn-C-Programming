@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{DACF696C-A676-4AD2-933E-1AC45A44440C}</ProjectGuid>
+    <ProjectGuid>{89FB62C2-05C9-41F2-9BF9-D1AEDD84D64A}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>My882Calculatefactorialsusingrecursion</RootNamespace>
+    <RootNamespace>My1111MemoryAllocation</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -151,7 +151,7 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="8.8.2. Calculate factorials using recursion.cpp" />
+    <ClCompile Include="11.1.1. Memory Allocation.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
