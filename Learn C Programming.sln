@@ -298,6 +298,12 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10.9.3. Using a non-constan
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10.9.4. A non-constant pointer to constant data", "10.9.4. A non-constant pointer to constant data\10.9.4. A non-constant pointer to constant data.vcxproj", "{916C9709-2FC1-4B15-9288-195522116950}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data Structure", "Data Structure", "{1568D91E-D77A-46A3-96B5-F39B66EC11A4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14.1.1. Linked Lists", "14.1.1. Linked Lists\14.1.1. Linked Lists.vcxproj", "{1E1A796E-D9EB-4524-B13C-618C29B850BC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14.1.2. Inserting a node by using recursive programs", "14.1.2. Inserting a node by using recursive programs\14.1.2. Inserting a node by using recursive programs.vcxproj", "{BDBB3986-4E27-493D-B8F8-1F1F9D122A92}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1318,6 +1324,26 @@ Global
 		{916C9709-2FC1-4B15-9288-195522116950}.Release|x64.Build.0 = Release|x64
 		{916C9709-2FC1-4B15-9288-195522116950}.Release|x86.ActiveCfg = Release|Win32
 		{916C9709-2FC1-4B15-9288-195522116950}.Release|x86.Build.0 = Release|Win32
+		{1E1A796E-D9EB-4524-B13C-618C29B850BC}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{1E1A796E-D9EB-4524-B13C-618C29B850BC}.Debug|x64.ActiveCfg = Debug|x64
+		{1E1A796E-D9EB-4524-B13C-618C29B850BC}.Debug|x64.Build.0 = Debug|x64
+		{1E1A796E-D9EB-4524-B13C-618C29B850BC}.Debug|x86.ActiveCfg = Debug|Win32
+		{1E1A796E-D9EB-4524-B13C-618C29B850BC}.Debug|x86.Build.0 = Debug|Win32
+		{1E1A796E-D9EB-4524-B13C-618C29B850BC}.Release|Any CPU.ActiveCfg = Release|Win32
+		{1E1A796E-D9EB-4524-B13C-618C29B850BC}.Release|x64.ActiveCfg = Release|x64
+		{1E1A796E-D9EB-4524-B13C-618C29B850BC}.Release|x64.Build.0 = Release|x64
+		{1E1A796E-D9EB-4524-B13C-618C29B850BC}.Release|x86.ActiveCfg = Release|Win32
+		{1E1A796E-D9EB-4524-B13C-618C29B850BC}.Release|x86.Build.0 = Release|Win32
+		{BDBB3986-4E27-493D-B8F8-1F1F9D122A92}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{BDBB3986-4E27-493D-B8F8-1F1F9D122A92}.Debug|x64.ActiveCfg = Debug|x64
+		{BDBB3986-4E27-493D-B8F8-1F1F9D122A92}.Debug|x64.Build.0 = Debug|x64
+		{BDBB3986-4E27-493D-B8F8-1F1F9D122A92}.Debug|x86.ActiveCfg = Debug|Win32
+		{BDBB3986-4E27-493D-B8F8-1F1F9D122A92}.Debug|x86.Build.0 = Debug|Win32
+		{BDBB3986-4E27-493D-B8F8-1F1F9D122A92}.Release|Any CPU.ActiveCfg = Release|Win32
+		{BDBB3986-4E27-493D-B8F8-1F1F9D122A92}.Release|x64.ActiveCfg = Release|x64
+		{BDBB3986-4E27-493D-B8F8-1F1F9D122A92}.Release|x64.Build.0 = Release|x64
+		{BDBB3986-4E27-493D-B8F8-1F1F9D122A92}.Release|x86.ActiveCfg = Release|Win32
+		{BDBB3986-4E27-493D-B8F8-1F1F9D122A92}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1462,6 +1488,8 @@ Global
 		{12F8E6C3-90F1-4A89-99B2-16C598141259} = {D2C37BA2-2110-4400-854A-370D01B0B6CB}
 		{1B9CF755-4DE7-40D6-AEA3-70CC9D96303E} = {D2C37BA2-2110-4400-854A-370D01B0B6CB}
 		{916C9709-2FC1-4B15-9288-195522116950} = {D2C37BA2-2110-4400-854A-370D01B0B6CB}
+		{1E1A796E-D9EB-4524-B13C-618C29B850BC} = {1568D91E-D77A-46A3-96B5-F39B66EC11A4}
+		{BDBB3986-4E27-493D-B8F8-1F1F9D122A92} = {1568D91E-D77A-46A3-96B5-F39B66EC11A4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {77F7D8DD-03FE-4DFE-9970-5838CB2D3B76}
